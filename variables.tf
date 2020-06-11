@@ -1,7 +1,7 @@
 variable "vmname" {
   description = "The name of my vm"
   
-  # default = "training"
+  default = "training"
 }
 
 variable "tags" {
